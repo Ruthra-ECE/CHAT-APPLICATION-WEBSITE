@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "group-chat-app-53b58",
+    "staging": "group-chat-app-53b58"
+  },
+  "targets": {},
+  "etags": {}
+}
